@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1574942410 source:c:\users\alumno\desktop\tp 3 laboratorio 1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+	"funcionesGet.h"
+
+1574942410 c:\users\alumno\desktop\tp 3 laboratorio 1\linkedlist.h
+
+1574946231 c:\users\alumno\desktop\tp 3 laboratorio 1\employee.h
+	"LinkedList.h"
+
+1574942410 c:\users\alumno\desktop\tp 3 laboratorio 1\controller.h
+
+1574942410 c:\users\alumno\desktop\tp 3 laboratorio 1\funcionesget.h
+
+1574944318 source:c:\users\alumno\desktop\tp 3 laboratorio 1\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1574942410 source:c:\users\alumno\desktop\tp 3 laboratorio 1\funcionesget.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesGet.h"
+
+1574942410 source:c:\users\alumno\desktop\tp 3 laboratorio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1574943160 source:c:\users\alumno\desktop\tp 3 laboratorio 1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1574942410 c:\users\alumno\desktop\tp 3 laboratorio 1\parser.h
+
