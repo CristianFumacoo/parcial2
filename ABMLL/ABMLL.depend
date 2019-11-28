@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1574911319 source:c:\users\chris\desktop\abmll\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"perritos.h"
+
+1574907106 source:c:\users\chris\desktop\abmll\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574911184 c:\users\chris\desktop\abmll\linkedlist.h
+
+1574911259 source:c:\users\chris\desktop\abmll\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	"perritos.h"
+
+1574911353 c:\users\chris\desktop\abmll\perritos.h
+	<stdio.h>
+	<conio.h>
+
